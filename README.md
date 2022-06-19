@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @trungmdang-dev
 - 👀 I’m interested in: software engineering, games, music, and movies.
-- 🌱 I’m currently lost. I am trying to find my passion for software again and the path to become a better programer.
-- 📫 How to reach me: only via github for now.
+- 🌱 I’m currently working as Android software engineer making retail experience apps.
+- 📫 How to reach me: shoot me an email at trungmdang.dev@gmail.com. 
